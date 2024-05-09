@@ -1,6 +1,6 @@
 body{
-    background-color: #655b20;
-    font-family: sans-serif;
+    background-color: #83C5BE;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
     
 }
 
@@ -8,7 +8,7 @@ body{
 .pizza{
     border: 1px solid #030117;
     padding: 1em;
-    margin: 1em;
+    margin: 0.5em;
     border-radius: 1em;
     flex: 1;
     /*display: inline-block;*/
